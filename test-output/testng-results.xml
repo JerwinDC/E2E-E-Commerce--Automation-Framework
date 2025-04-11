@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-11T17:59:34 CST" name="E-commerce Test Suite" finished-at="2025-04-11T17:59:45 CST" duration-ms="11404">
+    <groups>
+    </groups>
+    <test started-at="2025-04-11T17:59:34 CST" name="Complete End to End test case" finished-at="2025-04-11T17:59:45 CST" duration-ms="11404">
+      <class name="com.framework.test.logoutTest">
+        <test-method is-config="true" signature="init(org.testng.ITestContext)[pri:0, instance:com.framework.test.logoutTest@707194ba]" started-at="2025-04-11T17:59:34 CST" name="init" finished-at="2025-04-11T17:59:34 CST" duration-ms="219" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6c008c24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:com.framework.test.logoutTest@707194ba]" started-at="2025-04-11T17:59:34 CST" name="setUp" finished-at="2025-04-11T17:59:38 CST" duration-ms="4527" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6c008c24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logoutTestCase()[pri:0, instance:com.framework.test.logoutTest@707194ba]" started-at="2025-04-11T17:59:38 CST" name="logoutTestCase" finished-at="2025-04-11T17:59:44 CST" duration-ms="5606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTestCase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.framework.test.logoutTest@707194ba]" started-at="2025-04-11T17:59:44 CST" name="tearDown" finished-at="2025-04-11T17:59:45 CST" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.framework.test.logoutTest -->
+    </test> <!-- Complete End to End test case -->
+  </suite> <!-- E-commerce Test Suite -->
+</testng-results>
