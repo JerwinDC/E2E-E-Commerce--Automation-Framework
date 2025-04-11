@@ -68,7 +68,7 @@ browser = edge
 
 📄 How to Run the Tests
 Clone the repository:
-git clone https://github.com/your-username/automation-framework.git
+git clone https://github.com/JerwinDC/E2E-E-Commerce--Automation-Framework.git
 
 Navigate to the project directory:
 Run tests using Maven
